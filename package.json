@@ -15,7 +15,14 @@
   },
   "build": {
     "appId": "com.jonssonyan",
+    "extraResources": [
+      {
+        "from": "./aria2/",
+        "to": "../aria2/"
+      }
+    ],
     "win": {
+      "icon": "./icons/icon.ico",
       "target": [
         "nsis",
         "zip"
