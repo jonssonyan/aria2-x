@@ -6,9 +6,20 @@
   "author": "Jonsson Yan<https://jonssonyan.com>",
   "license": "MIT",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "dist": "electron-builder"
   },
   "devDependencies": {
-    "electron": "^15.2.0"
+    "electron": "^15.2.0",
+    "electron-builder": "^22.13.1"
+  },
+  "build": {
+    "appId": "com.jonssonyan",
+    "win": {
+      "target": [
+        "nsis",
+        "zip"
+      ]
+    }
   }
 }
