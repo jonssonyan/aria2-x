@@ -28,6 +28,13 @@
         "zip"
       ]
     },
+    "mac": {
+      "icon": "icon.ico",
+      "target": [
+        "dmg",
+        "zip"
+      ]
+    },
     "nsis": {
       "oneClick": false,
       "allowToChangeInstallationDirectory": true
