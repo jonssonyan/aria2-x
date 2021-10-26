@@ -10,8 +10,7 @@ function createWindow() {
         webPreferences: {
             nodeIntegration: true,
             preload: join(__dirname, 'renderer.js')
-        },
-        icon: join(__dirname, './icons/icon.ico')
+        }
     })
 
     mainWindow.loadFile('view/index.html')
