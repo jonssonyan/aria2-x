@@ -1,7 +1,7 @@
 {
   "name": "aria2-x",
   "version": "1.0.0",
-  "description": "一款更好、更便捷的PC端下载器",
+  "description": "一款基于yaaw和Aria2的PC端下载器",
   "main": "main.js",
   "author": "Jonsson Yan<https://jonssonyan.com>",
   "license": "MIT",

@@ -1,6 +1,6 @@
 # Aria2 X
 
-一款更好、更便捷的PC端下载器，基于yaaw汉化版和Aria2，目前只支持Windows系统
+一款基于yaaw和Aria2的PC端下载器
 
 # Enjoy!
 
