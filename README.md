@@ -20,3 +20,4 @@
 
 - [aria2](https://github.com/aria2/aria2)
 - [yaaw-zh-hans](https://github.com/aa65535/yaaw-zh-hans)
+- [Electron](https://www.electronjs.org/)
