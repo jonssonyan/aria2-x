@@ -4,7 +4,7 @@
 
 # Enjoy!
 
-![软件截图](https://img-blog.csdnimg.cn/33b3fb2fc33447d3afbcc3aebbdb9cca.png)
+![软件截图](https://img-blog.csdnimg.cn/57300bdb745c4dc8a66631fdc49cd7bd.png)
 
 # 搭配脚本
 
