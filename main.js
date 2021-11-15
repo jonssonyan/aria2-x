@@ -5,8 +5,8 @@ const {join} = require('path')
 function createWindow() {
     openAria2()
     const mainWindow = new BrowserWindow({
-        width: 800,
-        height: 600,
+        width: 900,
+        height: 700,
         minWidth: 600,
         minHeight: 400,
         webPreferences: {
