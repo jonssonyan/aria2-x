@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "一款基于yaaw和Aria2的PC端下载器",
   "main": "main.js",
-  "author": "Jonsson Yan<https://jonssonyan.com>",
+  "author": "jonssonyan<https://jonssonyan.com>",
   "license": "MIT",
   "scripts": {
     "start": "electron .",
