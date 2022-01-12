@@ -22,10 +22,6 @@
 
 - [阿里云盘](https://greasyfork.org/zh-CN/scripts/425955-%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98)
 
-# License
-
-[MIT](LICENSE)
-
 # Support
 
 - [aria2](https://github.com/aria2/aria2)
