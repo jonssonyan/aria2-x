@@ -24,7 +24,7 @@
 
 # Author
 
-[@jonssonyan](https://twitter.com/jonssonyan)
+[jonssonyan](https://jonssonyan.com)
 
 # Support
 
