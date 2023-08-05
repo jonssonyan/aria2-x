@@ -2,11 +2,11 @@
 
 一款基于AriaNg和Aria2的PC端下载器
 
-# Enjoy!
+# UI展示
 
 ![软件截图](https://github.com/jonssonyan/bilibili-danmu/assets/46235235/6bc1b2d0-5304-4c60-9e00-44f00b569418)
 
-# Author
+# 作者
 
 [jonssonyan](https://jonssonyan.com)
 
@@ -18,7 +18,7 @@
 
 2. [阿里云盘](https://greasyfork.org/zh-CN/scripts/425955-%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98)
 
-# Thanks
+# 支持
 
 - [aria2](https://github.com/aria2/aria2)
 - [AriaNg](https://github.com/mayswind/AriaNg)
