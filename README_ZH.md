@@ -4,9 +4,9 @@
 
 一款基于AriaNg和Aria2的PC端下载器
 
-## 在线演示
+## 演示
 
-![aria2x](https://github.com/jonssonyan/bilibili-danmu/assets/46235235/6bc1b2d0-5304-4c60-9e00-44f00b569418)
+![aria2-x](https://github.com/jonssonyan/bilibili-danmu/assets/46235235/6bc1b2d0-5304-4c60-9e00-44f00b569418)
 
 ## 脚本推荐
 

@@ -4,9 +4,9 @@
 
 A PC downloader based on AriaNg and Aria2
 
-## Live Demo
+## Demo
 
-![aria2x](https://github.com/jonssonyan/bilibili-danmu/assets/46235235/6bc1b2d0-5304-4c60-9e00-44f00b569418)
+![aria2-x](https://github.com/jonssonyan/bilibili-danmu/assets/46235235/6bc1b2d0-5304-4c60-9e00-44f00b569418)
 
 ## Script recommendation
 
