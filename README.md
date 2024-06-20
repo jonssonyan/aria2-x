@@ -24,7 +24,7 @@ A PC downloader based on AriaNg and Aria2
 
 ## Other
 
-you can contact me at YouTube: https://www.youtube.com/@jonssonyan
+You can subscribe to my channel on YouTube: https://www.youtube.com/@jonssonyan
 
 If this project is helpful to you, you can buy me a cup of coffee.
 
